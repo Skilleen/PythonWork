@@ -10,3 +10,5 @@ Trinary Tree - I created a trinary search tree and multiple functions to make us
 Circular List - Functions that create and manipulate a circular list (linked list in the form of a circle)
 
 Binary Search vs Trinary Search - A set of expierments that tested the complexity of binary and trinary searches. The conclusions are stated in the write up.
+
+Binary Search Tree vs Red-Black Tree - An expierment that compared the insert and search functions for binary search trees and red-black trees.
