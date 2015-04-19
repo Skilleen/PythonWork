@@ -12,3 +12,5 @@ Circular List - Functions that create and manipulate a circular list (linked lis
 Binary Search vs Trinary Search - A set of expierments that tested the complexity of binary and trinary searches. The conclusions are stated in the write up.
 
 Binary Search Tree vs Red-Black Tree - An expierment that compared the insert and search functions for binary search trees and red-black trees.
+
+Prim's vs BFS - An expierment on building spanning trees from a graph using both algorithims and comparing the results.
